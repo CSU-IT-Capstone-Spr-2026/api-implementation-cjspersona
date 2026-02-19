@@ -53,7 +53,7 @@ Check off the features you implemented (must have at least 4 and 2 are implemete
 
 ## Usage
 
-[Explain how to use your application - what can users do? What buttons should they click?]
+Once the website loads up, users will be greeted with a comic on start up, then when you scroll down, you will have the option of searching for the number of the comic you want, but the max is 5000. Click the latest comic for the most recent comic published, or click "Random comic" to be surprised with a randomly selected comic. The previous and next buttons are there for the reader to follow along with the next comic or return to a previous one.
 
 ## Screenshots
 
